@@ -1,5 +1,7 @@
 # ACE Dataset Prompt Loader (ComfyUI Node)
 
+[Demo](NodeDemo.png)
+
 **ACE Dataset Prompt Loader** is a custom ComfyUI node designed to extract structured prompt data from ACE Step 1.5 dataset JSON files.
 
 It allows you to reuse the exact musical and textual attributes used during LoRA training, helping generate outputs that better match the learned style and tonal characteristics.
