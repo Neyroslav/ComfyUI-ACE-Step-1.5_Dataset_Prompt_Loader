@@ -1,6 +1,6 @@
 # ACE Dataset Prompt Loader (ComfyUI Node)
 
-[Demo](NodeDemo.png)
+![Demo](NodeDemo.png)
 
 **ACE Dataset Prompt Loader** is a custom ComfyUI node designed to extract structured prompt data from ACE Step 1.5 dataset JSON files.
 
