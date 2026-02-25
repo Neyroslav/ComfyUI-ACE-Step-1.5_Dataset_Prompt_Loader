@@ -8,6 +8,19 @@ It allows you to reuse the exact musical and textual attributes used during LoRA
 
 ---
 
+## 🛠 Installation
+
+1. Navigate to your ComfyUI folder.
+
+2. Open the custom_nodes directory.
+
+3. Open a terminal in this folder and run:
+
+`git clone https://github.com/Neyroslav/ComfyUI-ACE-Step-1.5_Dataset_Prompt_Loader.git`
+
+4. Restart ComfyUI.
+
+
 ## ✨ Why This Node Exists
 
 LoRA models trained on ACE Step 1.5 datasets learn relationships between:
